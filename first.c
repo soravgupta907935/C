@@ -2,10 +2,10 @@
 
 int main() {
    int a,b,multiply;
-   printf(" write a value ");
+   printf(" write d value ");
    scanf("%d",&a);
 
-   printf(" write b value ");
+   printf(" write c value ");
    scanf("%d",&b);
 
    multiply=a*b;
